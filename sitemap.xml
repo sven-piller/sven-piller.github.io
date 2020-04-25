@@ -52,27 +52,6 @@
   </url>
   
   <url>
-    <loc>https://sven-piller.github.io/techs/javascript/</loc>
-    <lastmod>2020-04-25T15:25:50+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sven-piller.github.io/techs/</loc>
-    <lastmod>2020-04-25T15:25:50+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sven-piller.github.io/portfolio/ux-kurs/</loc>
-    <lastmod>2020-04-25T15:25:50+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://sven-piller.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -98,6 +77,12 @@
   
   <url>
     <loc>https://sven-piller.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
