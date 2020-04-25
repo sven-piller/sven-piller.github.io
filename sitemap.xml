@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sven-piller.github.io/designs/adobe-xd/</loc>
+    <lastmod>2020-04-25T16:53:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/designs/balsamiq/</loc>
+    <lastmod>2020-04-25T16:53:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/designs/</loc>
+    <lastmod>2020-04-25T16:53:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/</loc>
+    <lastmod>2020-04-25T16:53:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/portfolio/</loc>
+    <lastmod>2020-04-25T16:53:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/portfolio/snowhunt/</loc>
+    <lastmod>2020-04-25T16:53:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/designs/vs-code/</loc>
+    <lastmod>2020-04-25T16:53:52+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/techs/javascript/</loc>
+    <lastmod>2020-04-25T15:25:50+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/techs/</loc>
+    <lastmod>2020-04-25T15:25:50+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sven-piller.github.io/portfolio/ux-kurs/</loc>
+    <lastmod>2020-04-25T15:25:50+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://sven-piller.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -21,13 +91,7 @@
   </url>
   
   <url>
-    <loc>https://sven-piller.github.io/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://sven-piller.github.io/portfolio/</loc>
+    <loc>https://sven-piller.github.io/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

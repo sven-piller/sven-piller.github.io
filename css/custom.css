@@ -1,0 +1,11 @@
+figure.w200>img,
+figure.w200>figcaption {
+	max-width: 150px;
+	width: 150px;
+}
+
+figure.w200 {
+    width: 150px;
+    margin: 5px;
+    display: inline-block;
+}

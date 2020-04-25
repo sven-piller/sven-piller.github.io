@@ -7,9 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>© Sven Piller</copyright>
+    <lastBuildDate>Sat, 25 Apr 2020 16:53:52 +0200</lastBuildDate>
     
 	<atom:link href="https://sven-piller.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SNOWHUNT</title>
+      <link>https://sven-piller.github.io/portfolio/snowhunt/</link>
+      <pubDate>Sat, 25 Apr 2020 16:53:52 +0200</pubDate>
+      
+      <guid>https://sven-piller.github.io/portfolio/snowhunt/</guid>
+      <description>SNOWHUNT is your mobile scavenger hunt app while doing winter sports!
+Introduction Snowhunt is a mobile application prototype developed within the second part of the CareerFoundry Certified UX Designer Program: UX Immersion. In this expose I will describe the history of the developement process of this app.
+Initial Goals “Casual skiers need a way to solve some quests during their sport sessions because they want an extra motivation for doing sports.</description>
+    </item>
+    
+    <item>
+      <title>UX Kurs</title>
+      <link>https://sven-piller.github.io/portfolio/ux-kurs/</link>
+      <pubDate>Sat, 25 Apr 2020 15:25:50 +0200</pubDate>
+      
+      <guid>https://sven-piller.github.io/portfolio/ux-kurs/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+  Screenshot
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
     
   </channel>
 </rss>
